@@ -21,7 +21,8 @@ const initialPieData = {
     series: []
 }
 
-const BASE_URL = 'https://sds1-samuel.herokuapp.com';
+//const BASE_URL = 'https://sds1-samuel.herokuapp.com';
+const BASE_URL = 'https://semanadevsuperior1-production.up.railway.app/';
 
 
 //const BASE_URL = 'http://localhost:8080'; 
