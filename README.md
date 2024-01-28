@@ -7,10 +7,6 @@ Entretanto, poderá baixar o projeto e executa-lo localmente.
 
 [Acesse aqui o projeto na web](https://sds1-samuel.netlify.app)
 
-FrontEnd hospedado no [Netlifly](https://www.netlify.com/)
-
-BackEnd hospedado no [Railway](https://railway.app/)
-
 ## Sobre o projeto
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da Semana DevSuperior (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com/).
 
